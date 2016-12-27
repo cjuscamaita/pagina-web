@@ -1,7 +1,7 @@
 body{
 	background-color: #FFF;
-	font-family: Georgia;
-	font-size: 2rem;
+	font-family: Arial;
+	font-size: 1rem;
 }
 h1{
 	color: red;
@@ -15,4 +15,7 @@ p{
 }
 table tr td{
 	font-weight: bold;
+}
+img{
+	width: 200px;
 }
